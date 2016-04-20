@@ -1,0 +1,2 @@
+vhdl isim_temp "watering.vhd"
+vhdl isim_temp "watering_tb.vhd"

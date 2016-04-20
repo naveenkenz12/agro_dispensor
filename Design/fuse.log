@@ -1,0 +1,43 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_testbench1_isim_beh.exe -prj /home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_testbench1_beh.prj work.Inficoders_testbench1 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/ipcore_dir/requests_fifo.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/handler.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/watering.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/tilling.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/sowing.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/cutting.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/controller.vhd" into library work
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Dispenser_top.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Dispenser_top.vhd" Line 176: Actual for formal port busy is neither a static name nor a globally static expression
+Parsing VHDL file "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/top_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 102600 KB
+Fuse CPU Usage: 4880 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity fifo_generator_v9_3_bhv_ss [\fifo_generator_v9_3_bhv_ss(10,3...]
+Compiling architecture behavioral of entity fifo_generator_v9_3_conv [\fifo_generator_v9_3_conv(1,0,10...]
+Compiling architecture behavioral of entity fifo_generator_v9_3 [\fifo_generator_v9_3(1,0,10,"Bla...]
+Compiling architecture requests_fifo_a of entity requests_fifo [requests_fifo_default]
+Compiling architecture behavioral of entity handler [handler_default]
+Compiling architecture behavioral of entity controller [controller_default]
+Compiling architecture behavioral of entity tilling [tilling_default]
+Compiling architecture behavioral of entity sowing [sowing_default]
+Compiling architecture behavioral of entity watering [watering_default]
+Compiling architecture behavioral of entity cutting [cutting_default]
+Compiling architecture behavioral of entity Inficoders_top [inficoders_top_default]
+Compiling architecture behavior of entity inficoders_testbench1
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 28 VHDL Units
+Built simulation executable /home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_testbench1_isim_beh.exe
+Fuse Memory Usage: 678388 KB
+Fuse CPU Usage: 5540 ms
+GCC CPU Usage: 6090 ms

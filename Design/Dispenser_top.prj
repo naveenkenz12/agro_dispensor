@@ -1,0 +1,8 @@
+vhdl work "ipcore_dir/requests_fifo.vhd"
+vhdl work "handler.vhd"
+vhdl work "watering.vhd"
+vhdl work "tilling.vhd"
+vhdl work "sowing.vhd"
+vhdl work "cutting.vhd"
+vhdl work "controller.vhd"
+vhdl work "Dispenser_top.vhd"

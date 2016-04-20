@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_top.xst" -ofn "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_top.syr" 

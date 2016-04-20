@@ -1,0 +1,29 @@
+Command line:
+   watering_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  2
+     -socket  35110
+
+Wed Apr  6 19:12:59 2016
+
+
+ Elaboration Time: 0.06 sec
+
+ Current Memory Usage: 196.276 Meg
+
+ Total Signals          : 35
+ Total Nets             : 92
+ Total Signal Drivers   : 18
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 4
+ Total Traceable Variables  : 17
+ Total Scalar Nets and Variables : 595
+Total Line Count : 71
+
+ Total Simulation Time: 0.2 sec
+
+ Current Memory Usage: 271.778 Meg
+
+Wed Apr  6 19:14:13 2016
+

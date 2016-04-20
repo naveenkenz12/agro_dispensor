@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_testbench1_isim_beh.exe" -prj "/home/suman/My/SEM4/Sem4/CS226Lab/inficoders/Design/Inficoders_testbench1_beh.prj" "work.Inficoders_testbench1" 

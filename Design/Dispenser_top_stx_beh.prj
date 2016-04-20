@@ -1,0 +1,8 @@
+vhdl isim_temp "ipcore_dir/requests_fifo.vhd"
+vhdl isim_temp "handler.vhd"
+vhdl isim_temp "watering.vhd"
+vhdl isim_temp "tilling.vhd"
+vhdl isim_temp "sowing.vhd"
+vhdl isim_temp "cutting.vhd"
+vhdl isim_temp "controller.vhd"
+vhdl isim_temp "Dispenser_top.vhd"

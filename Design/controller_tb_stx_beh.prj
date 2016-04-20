@@ -1,0 +1,4 @@
+vhdl isim_temp "ipcore_dir/requests_fifo.vhd"
+vhdl isim_temp "handler.vhd"
+vhdl isim_temp "controller.vhd"
+vhdl isim_temp "controller_tb.vhd"
